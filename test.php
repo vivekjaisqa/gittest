@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "the web server is working" 
 ?>
